@@ -1,3 +1,5 @@
+
+			Inside gitproject2
 https://github.com/itbsgd/bsgdproject.git
 
 1. at cmd write -git clone <path> <folder> to clone the folder in specific folder
@@ -7,3 +9,4 @@ https://github.com/itbsgd/bsgdproject.git
 4. After this write $ git commit -m 'Any message'
 5. After commit the files are still in our system, but to make them visible on github.com,
    we need to write $ git push
+6. Then refresh github account to see the change. 
