@@ -10,3 +10,4 @@ https://github.com/itbsgd/bsgdproject.git
 5. After commit the files are still in our system, but to make them visible on github.com,
    we need to write $ git push
 6. Then refresh github account to see the change. 
+7. View the youtube video -https://www.youtube.com/watch?v=0fKg7e37bQE
