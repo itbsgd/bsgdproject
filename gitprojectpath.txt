@@ -10,3 +10,4 @@ https://github.com/itbsgd/bsgdproject.git
    we need to write $ git push
 6. Then refresh github account on website to see the change. 
 7. View the youtube video -https://www.youtube.com/watch?v=0fKg7e37bQE to watch the tutorial on github for any other help.
+8. enter esc:wq to comeback to the prompt if stuck on screen
