@@ -1,13 +1,12 @@
 
-			Inside gitproject2
 https://github.com/itbsgd/bsgdproject.git
 
-1. at cmd write -git clone <path> <folder> to clone the folder in specific folder
+1. install git on your pc then at cmd write -git clone <path> <folder> to clone the folder in specific folder
 2. write $ git status to know the current status of the repository, if any new files or uncommitted files 
    it will be shown
-3.if any new files created by a collaborator, then write $ git add <filename>
+3.if any new files needs to be added by a collaborator, then write $ git add <filename>
 4. After this write $ git commit -m 'Any message'
 5. After commit the files are still in our system, but to make them visible on github.com,
    we need to write $ git push
-6. Then refresh github account to see the change. 
-7. View the youtube video -https://www.youtube.com/watch?v=0fKg7e37bQE to watch the tutorial on github.
+6. Then refresh github account on website to see the change. 
+7. View the youtube video -https://www.youtube.com/watch?v=0fKg7e37bQE to watch the tutorial on github for any other help.
